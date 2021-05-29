@@ -1,0 +1,10 @@
+[Applet Factory]
+Id=LoadFactory
+Location=@LOCATION@
+Name=Load Factory
+Description=Load Factory
+
+[LoadApplet]
+Name=PSI Load
+_Description=Graphical PSI monitor
+Icon=@APPICON@

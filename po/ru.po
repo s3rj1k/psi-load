@@ -1,0 +1,29 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Load\n"
+"Report-Msgid-Bugs-To: s3rj1k <evasive.gyron@gmail.com>\n"
+"POT-Creation-Date: 2021-05-29 21:58+0200\n"
+"PO-Revision-Date: 2021-05-29 21:58+0200\n"
+"Last-Translator: s3rj1k <evasive.gyron@gmail.com>\n"
+"Language-Team: s3rj1k\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Graphical PSI monitor"
+msgstr "Графический мониторинг PSI"
+
+#. xgettext: Not Available
+msgid "N/A"
+msgstr ""
+
+msgid "Processor"
+msgstr "Процессор"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Disk"
+msgstr "Диск"

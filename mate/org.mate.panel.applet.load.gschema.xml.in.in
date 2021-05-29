@@ -1,0 +1,4 @@
+<schemalist gettext-domain="@GETTEXT_PACKAGE@">
+  <schema id="org.mate.panel.applet.load">
+  </schema>
+</schemalist>
